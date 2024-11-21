@@ -10,12 +10,12 @@ This project is a 3D cube animation created using Processing. Multiple cubes are
 ## 実行方法 (How to Run)
 1. [Processing](https://processing.org/download) をダウンロードしてインストールしてください。
 2. このリポジトリをクローンするか、ZIPファイルをダウンロードして解凍してください。
-3. Processing IDEで`3d-cube-animation.pde`ファイルを開きます。
+3. Processing IDEで`rippoutai_01.pde`ファイルを開きます。
 4. 再生ボタンをクリックしてアニメーションを実行します。
 
 1. Download and install [Processing](https://processing.org/download).
 2. Clone this repository or download the ZIP file and extract it.
-3. 3. Open the `3d-cube-animation.pde` file in the Processing IDE.
+3. 3. Open the `rippoutai_01.pde` file in the Processing IDE.
 4. Click the play button to run the animation.
 
 ---
